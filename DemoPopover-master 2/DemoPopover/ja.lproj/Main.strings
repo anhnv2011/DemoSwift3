@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "An investment in knowledge pays the best interest. \n"; ObjectID = "46l-Qe-Cu8"; */
+"46l-Qe-Cu8.text" = "An investment in knowledge pays the best interest. \n";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "71F-WI-hcX"; */
+"71F-WI-hcX.normalTitle" = "Share";
+
+/* Class = "UIButton"; normalTitle = "Like"; ObjectID = "FH8-DA-Vdy"; */
+"FH8-DA-Vdy.normalTitle" = "Like";
+
+/* Class = "UIButton"; normalTitle = "Comment"; ObjectID = "NrK-8t-lJd"; */
+"NrK-8t-lJd.normalTitle" = "Comment";
+
+/* Class = "UITextView"; text = "Write a comment..."; ObjectID = "YBW-wj-Tq3"; */
+"YBW-wj-Tq3.text" = "Write a comment...";
+
+/* Class = "UILabel"; text = "Benjamin Franklin"; ObjectID = "kQh-1M-CYx"; */
+"kQh-1M-CYx.text" = "aaaaJA";
+
+/* Class = "UILabel"; text = "July 14 at 10:16 am"; ObjectID = "l9d-jA-Puf"; */
+"l9d-jA-Puf.text" = "July 14 at 10:16 am";

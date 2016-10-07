@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="DemoPopover" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cXe-13-vGY">
+                                <rect key="frame" x="11" y="20" width="304" height="463"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Benjamin Franklin" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kQh-1M-CYx">
+                                        <rect key="frame" x="65" y="8" width="142" height="21"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                        <color key="textColor" red="0.14978959350000001" green="0.35204993039999999" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="July 14 at 10:16 am" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="l9d-jA-Puf">
+                                        <rect key="frame" x="65" y="25" width="125" height="21"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                        <color key="textColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="46l-Qe-Cu8">
+                                        <rect key="frame" x="8" y="66" width="289" height="54"/>
+                                        <string key="text">An investment in knowledge pays the best interest. 
+</string>
+                                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="big_avar_BF.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="e6l-Hq-diB">
+                                        <rect key="frame" x="8" y="118" width="288" height="309"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="grey_like.png" translatesAutoresizingMaskIntoConstraints="NO" id="7ic-Dr-XKg">
+                                        <rect key="frame" x="8" y="435" width="20" height="20"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="grey_comment.png" translatesAutoresizingMaskIntoConstraints="NO" id="b7W-uQ-Fb3">
+                                        <rect key="frame" x="101" y="435" width="20" height="20"/>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="grey_share.png" translatesAutoresizingMaskIntoConstraints="NO" id="WJe-24-gQy">
+                                        <rect key="frame" x="217" y="435" width="20" height="20"/>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FH8-DA-Vdy">
+                                        <rect key="frame" x="34" y="435" width="33" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <state key="normal" title="Like">
+                                            <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <segue destination="Xhx-We-Ayd" kind="popoverPresentation" identifier="showView" popoverAnchorView="FH8-DA-Vdy" id="Q3t-UD-E4p">
+                                                <popoverArrowDirection key="popoverArrowDirection" down="YES"/>
+                                            </segue>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="71F-WI-hcX">
+                                        <rect key="frame" x="245" y="435" width="44" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <state key="normal" title="Share">
+                                            <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NrK-8t-lJd">
+                                        <rect key="frame" x="129" y="435" width="67" height="20"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                        <state key="normal" title="Comment">
+                                            <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                    </button>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="small_avar_BF.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="MuA-pF-V9P">
+                                        <rect key="frame" x="8" y="8" width="49" height="55"/>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JuL-4s-dQi">
+                                        <rect key="frame" x="251" y="0.0" width="46" height="30"/>
+                                        <state key="normal" title="ja"/>
+                                        <connections>
+                                            <action selector="action_ChangeLanguage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Jw-zH-O1c"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FWK-g0-RnX">
+                                        <rect key="frame" x="251" y="38" width="46" height="30"/>
+                                        <state key="normal" title="fr"/>
+                                        <connections>
+                                            <action selector="action_ChangeLanguage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="62v-vz-mEl"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gIH-UT-r2l">
+                                <rect key="frame" x="11" y="491" width="304" height="69"/>
+                                <subviews>
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Write a comment..." textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="YBW-wj-Tq3">
+                                        <rect key="frame" x="65" y="7" width="231" height="56"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                    </textView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="avar_fb.png" translatesAutoresizingMaskIntoConstraints="NO" id="frg-l3-Cso">
+                                        <rect key="frame" x="8" y="6" width="49" height="55"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="0.69498425000888897" green="0.81502778142340393" blue="0.880488782051282" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="btn_Comment" destination="NrK-8t-lJd" id="IT3-kN-Rs4"/>
+                        <outlet property="btn_Like" destination="FH8-DA-Vdy" id="oQZ-WO-M8q"/>
+                        <outlet property="btn_Share" destination="71F-WI-hcX" id="FFz-t9-GAI"/>
+                        <outlet property="lbl_Date" destination="l9d-jA-Puf" id="05n-nh-K9s"/>
+                        <outlet property="lbl_Name" destination="kQh-1M-CYx" id="df7-pv-LyH"/>
+                        <outlet property="lbl_Status" destination="46l-Qe-Cu8" id="gJ8-Cf-CKW"/>
+                        <outlet property="textView_comment" destination="YBW-wj-Tq3" id="m1X-IQ-2fO"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-779" y="1020"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="Oe6-zI-sD9">
+            <objects>
+                <viewController id="qZ7-Q2-bWF" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="XVs-OF-kxf"/>
+                        <viewControllerLayoutGuide type="bottom" id="e1m-aN-QOB"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="h0N-Jw-NG4">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xTf-NR-mhh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-176" y="849"/>
+        </scene>
+        <!--Popover View Controller-->
+        <scene sceneID="CT5-9r-OO8">
+            <objects>
+                <viewController id="Xhx-We-Ayd" customClass="PopoverViewController" customModule="DemoPopover" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="ShT-sz-iFM"/>
+                        <viewControllerLayoutGuide type="bottom" id="D7o-wW-aUP"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="ERv-dD-zi1">
+                        <rect key="frame" x="0.0" y="0.0" width="222" height="30"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" tag="1" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fcu-3m-bpA">
+                                <rect key="frame" x="0.0" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Like.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="Bdm-gg-dZB"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6kY-9B-xDY">
+                                <rect key="frame" x="31" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Love.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="LU2-Q7-NdS"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="URV-OR-81v">
+                                <rect key="frame" x="62" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Haha.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="d4n-eI-q2W"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OLh-Qi-WBs">
+                                <rect key="frame" x="95" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Yay.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="NZd-8h-2g3"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tMt-zL-3dE">
+                                <rect key="frame" x="126" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Wow.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="qCS-CN-byJ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="6" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dlH-EK-cfr">
+                                <rect key="frame" x="157" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Sad.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="Zfm-BJ-OX7"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f5Y-Jj-1l3">
+                                <rect key="frame" x="190" y="0.0" width="30" height="30"/>
+                                <state key="normal" image="Angry.png"/>
+                                <connections>
+                                    <action selector="action_motionReaction:" destination="Xhx-We-Ayd" eventType="touchUpInside" id="2CY-N9-IGa"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <nil key="simulatedStatusBarMetrics"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="222" height="30"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cjy-UE-EYv" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-443" y="1121"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Angry.png" width="124" height="124"/>
+        <image name="Haha.png" width="124" height="124"/>
+        <image name="Like.png" width="124" height="125"/>
+        <image name="Love.png" width="123" height="123"/>
+        <image name="Sad.png" width="125" height="127"/>
+        <image name="Wow.png" width="124" height="124"/>
+        <image name="Yay.png" width="124" height="124"/>
+        <image name="avar_fb.png" width="225" height="225"/>
+        <image name="big_avar_BF.jpg" width="2386" height="3000"/>
+        <image name="grey_comment.png" width="204" height="204"/>
+        <image name="grey_like.png" width="204" height="204"/>
+        <image name="grey_share.png" width="80" height="80"/>
+        <image name="small_avar_BF.jpeg" width="176" height="236"/>
+    </resources>
+</document>

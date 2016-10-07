@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "3bf5a9b8154954c35988d039195f0634"
+build_time: [525157223, 686911000]
+inputs:
+  "/Users/dangcan/Desktop/MapKipSimple/MapKipSimple/ViewController.swift": [525155021, 0]
+  "/Users/dangcan/Desktop/MapKipSimple/MapKipSimple/PathFind.swift": [9223372036854775807, 0]
+  "/Users/dangcan/Desktop/MapKipSimple/MapKipSimple/AppDelegate.swift": [525154921, 0]

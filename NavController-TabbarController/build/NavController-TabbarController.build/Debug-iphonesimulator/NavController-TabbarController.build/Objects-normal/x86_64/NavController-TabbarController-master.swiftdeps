@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "79000a2b4ea24131f47a74b126567659"
+build_time: [527685984, 838064000]
+inputs:
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/CustomTextField.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/LoginViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/YourBookController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/HomeViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/AppDelegate.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/CustomButton.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/ProfileViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/SignUpViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/BaseTabbarController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/BaseNavigationController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/BaseViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/NavController-TabbarController/Users.swift": [527684438, 0]

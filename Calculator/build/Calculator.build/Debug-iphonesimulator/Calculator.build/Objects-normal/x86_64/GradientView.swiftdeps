@@ -1,0 +1,515 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GradientView"
+provides-nominal:
+- "C10Calculator12GradientView"
+provides-member:
+- ["C10Calculator12GradientView", ""]
+provides-dynamic-lookup:
+- "createGradient"
+- "layoutSubviews"
+depends-top-level:
+- !private "/"
+- "GradientView"
+- "UIView"
+- !private "UIColor"
+- !private "CGPoint"
+- "NSCoder"
+- !private "StringLiteralType"
+- !private "=="
+- "AssignmentPrecedence"
+- !private "CAGradientLayer"
+- !private "Array"
+- "Void"
+depends-member:
+- !private ["Ps9AnyObject", "CAGradientLayer"]
+- !private ["Ps9AnyObject", "CGPoint"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "cgColor"]
+- !private ["Ps9AnyObject", "colors"]
+- ["Ps9AnyObject", "createGradient"]
+- !private ["Ps9AnyObject", "endPoint"]
+- !private ["Ps9AnyObject", "frame"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "insertSublayer"]
+- !private ["Ps9AnyObject", "layer"]
+- ["Ps9AnyObject", "layoutSubviews"]
+- !private ["Ps9AnyObject", "startPoint"]
+- !private ["Ps9AnyObject", "tag"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Element"]
+- ["Sa", "deinit"]
+- !private ["Ps23BidirectionalCollection", "Element"]
+- !private ["Ps22BidirectionalIndexable", "Element"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["CSo15CAGradientLayer", "colors"]
+- ["CSo15CAGradientLayer", "deinit"]
+- !private ["CSo15CAGradientLayer", "endPoint"]
+- !private ["CSo15CAGradientLayer", "frame"]
+- !private ["CSo15CAGradientLayer", "init"]
+- !private ["CSo15CAGradientLayer", "startPoint"]
+- !private ["CSo7CALayer", "colors"]
+- ["CSo7CALayer", "deinit"]
+- !private ["CSo7CALayer", "endPoint"]
+- !private ["CSo7CALayer", "frame"]
+- !private ["CSo7CALayer", "init"]
+- !private ["CSo7CALayer", "insertSublayer"]
+- !private ["CSo7CALayer", "startPoint"]
+- !private ["PSo15CALayerDelegate", "CAGradientLayer"]
+- !private ["PSo15CALayerDelegate", "CGPoint"]
+- !private ["PSo15CALayerDelegate", "UIColor"]
+- !private ["PSo15CALayerDelegate", "backgroundColor"]
+- ["PSo15CALayerDelegate", "createGradient"]
+- !private ["PSo15CALayerDelegate", "frame"]
+- ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- ["PSo15CALayerDelegate", "layoutSubviews"]
+- !private ["PSo15CALayerDelegate", "tag"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["PSo13CAMediaTiming", "colors"]
+- !private ["PSo13CAMediaTiming", "endPoint"]
+- !private ["PSo13CAMediaTiming", "frame"]
+- !private ["PSo13CAMediaTiming", "init"]
+- !private ["PSo13CAMediaTiming", "insertSublayer"]
+- !private ["PSo13CAMediaTiming", "startPoint"]
+- ["CSo7CGColor", "deinit"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC7CGPoint", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["Ps7CVarArg", "CAGradientLayer"]
+- !private ["Ps7CVarArg", "CGPoint"]
+- !private ["Ps7CVarArg", "Element"]
+- !private ["Ps7CVarArg", "UIColor"]
+- !private ["Ps7CVarArg", "backgroundColor"]
+- !private ["Ps7CVarArg", "cgColor"]
+- !private ["Ps7CVarArg", "colors"]
+- ["Ps7CVarArg", "createGradient"]
+- !private ["Ps7CVarArg", "endPoint"]
+- !private ["Ps7CVarArg", "frame"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "insertSublayer"]
+- !private ["Ps7CVarArg", "layer"]
+- ["Ps7CVarArg", "layoutSubviews"]
+- !private ["Ps7CVarArg", "startPoint"]
+- !private ["Ps7CVarArg", "tag"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "CAGradientLayer"]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "Element"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "cgColor"]
+- !private ["Ps28CustomDebugStringConvertible", "colors"]
+- ["Ps28CustomDebugStringConvertible", "createGradient"]
+- !private ["Ps28CustomDebugStringConvertible", "endPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "insertSublayer"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- ["Ps28CustomDebugStringConvertible", "layoutSubviews"]
+- !private ["Ps28CustomDebugStringConvertible", "startPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "tag"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "CAGradientLayer"]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- !private ["Ps23CustomStringConvertible", "Element"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "cgColor"]
+- !private ["Ps23CustomStringConvertible", "colors"]
+- ["Ps23CustomStringConvertible", "createGradient"]
+- !private ["Ps23CustomStringConvertible", "endPoint"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "insertSublayer"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- ["Ps23CustomStringConvertible", "layoutSubviews"]
+- !private ["Ps23CustomStringConvertible", "startPoint"]
+- !private ["Ps23CustomStringConvertible", "tag"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CAGradientLayer"]
+- !private ["Ps9Equatable", "CGPoint"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "cgColor"]
+- !private ["Ps9Equatable", "colors"]
+- ["Ps9Equatable", "createGradient"]
+- !private ["Ps9Equatable", "endPoint"]
+- !private ["Ps9Equatable", "frame"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "insertSublayer"]
+- !private ["Ps9Equatable", "layer"]
+- ["Ps9Equatable", "layoutSubviews"]
+- !private ["Ps9Equatable", "startPoint"]
+- !private ["Ps9Equatable", "tag"]
+- ["Ps9Equatable", ""]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["C10Calculator12GradientView", "CAGradientLayer"]
+- !private ["C10Calculator12GradientView", "CGPoint"]
+- ["C10Calculator12GradientView", "NSCoder"]
+- !private ["C10Calculator12GradientView", "UIColor"]
+- ["C10Calculator12GradientView", "Void"]
+- !private ["C10Calculator12GradientView", "backgroundColor"]
+- ["C10Calculator12GradientView", "createGradient"]
+- ["C10Calculator12GradientView", "deinit"]
+- !private ["C10Calculator12GradientView", "frame"]
+- ["C10Calculator12GradientView", "init"]
+- !private ["C10Calculator12GradientView", "layer"]
+- ["C10Calculator12GradientView", "layoutSubviews"]
+- !private ["C10Calculator12GradientView", "tag"]
+- !private ["Ps8Hashable", "CAGradientLayer"]
+- !private ["Ps8Hashable", "CGPoint"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "cgColor"]
+- !private ["Ps8Hashable", "colors"]
+- ["Ps8Hashable", "createGradient"]
+- !private ["Ps8Hashable", "endPoint"]
+- !private ["Ps8Hashable", "frame"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "insertSublayer"]
+- !private ["Ps8Hashable", "layer"]
+- ["Ps8Hashable", "layoutSubviews"]
+- !private ["Ps8Hashable", "startPoint"]
+- !private ["Ps8Hashable", "tag"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Element"]
+- !private ["Ps13IndexableBase", "Element"]
+- ["Si", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps17MutableCollection", "Element"]
+- !private ["Ps16MutableIndexable", "Element"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "CAGradientLayer"]
+- !private ["PSo8NSCoding", "CGPoint"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "cgColor"]
+- !private ["PSo8NSCoding", "colors"]
+- ["PSo8NSCoding", "createGradient"]
+- !private ["PSo8NSCoding", "endPoint"]
+- !private ["PSo8NSCoding", "frame"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "insertSublayer"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", "layoutSubviews"]
+- !private ["PSo8NSCoding", "startPoint"]
+- !private ["PSo8NSCoding", "tag"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "cgColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo8NSObject", "CAGradientLayer"]
+- !private ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "NSCoder"]
+- !private ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "cgColor"]
+- !private ["CSo8NSObject", "colors"]
+- ["CSo8NSObject", "createGradient"]
+- !private ["CSo8NSObject", "endPoint"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "insertSublayer"]
+- !private ["CSo8NSObject", "layer"]
+- ["CSo8NSObject", "layoutSubviews"]
+- !private ["CSo8NSObject", "startPoint"]
+- !private ["CSo8NSObject", "tag"]
+- !private ["PSo16NSObjectProtocol", "CAGradientLayer"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "cgColor"]
+- !private ["PSo16NSObjectProtocol", "colors"]
+- ["PSo16NSObjectProtocol", "createGradient"]
+- !private ["PSo16NSObjectProtocol", "endPoint"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "insertSublayer"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", "layoutSubviews"]
+- !private ["PSo16NSObjectProtocol", "startPoint"]
+- !private ["PSo16NSObjectProtocol", "tag"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "cgColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "Element"]
+- !private ["Ps21RandomAccessIndexable", "Element"]
+- !private ["Ps26RangeReplaceableCollection", "Element"]
+- !private ["Ps25RangeReplaceableIndexable", "Element"]
+- !private ["Ps8Sequence", "Element"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "CAGradientLayer"]
+- !private ["PSo29UIAccessibilityIdentification", "CGPoint"]
+- !private ["PSo29UIAccessibilityIdentification", "UIColor"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- ["PSo29UIAccessibilityIdentification", "createGradient"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- ["PSo29UIAccessibilityIdentification", "layoutSubviews"]
+- !private ["PSo29UIAccessibilityIdentification", "tag"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "CAGradientLayer"]
+- !private ["PSo12UIAppearance", "CGPoint"]
+- !private ["PSo12UIAppearance", "UIColor"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- ["PSo12UIAppearance", "createGradient"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- ["PSo12UIAppearance", "layoutSubviews"]
+- !private ["PSo12UIAppearance", "tag"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "CAGradientLayer"]
+- !private ["PSo21UIAppearanceContainer", "CGPoint"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- ["PSo21UIAppearanceContainer", "createGradient"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", "layoutSubviews"]
+- !private ["PSo21UIAppearanceContainer", "tag"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "cgColor"]
+- ["CSo7UIColor", "deinit"]
+- !private ["CSo7UIColor", "init"]
+- !private ["PSo17UICoordinateSpace", "CAGradientLayer"]
+- !private ["PSo17UICoordinateSpace", "CGPoint"]
+- !private ["PSo17UICoordinateSpace", "UIColor"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- ["PSo17UICoordinateSpace", "createGradient"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- ["PSo17UICoordinateSpace", "layoutSubviews"]
+- !private ["PSo17UICoordinateSpace", "tag"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "CAGradientLayer"]
+- !private ["PSo13UIDynamicItem", "CGPoint"]
+- !private ["PSo13UIDynamicItem", "UIColor"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- ["PSo13UIDynamicItem", "createGradient"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- ["PSo13UIDynamicItem", "layoutSubviews"]
+- !private ["PSo13UIDynamicItem", "tag"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "CAGradientLayer"]
+- !private ["PSo18UIFocusEnvironment", "CGPoint"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- ["PSo18UIFocusEnvironment", "createGradient"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", "layoutSubviews"]
+- !private ["PSo18UIFocusEnvironment", "tag"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "CAGradientLayer"]
+- !private ["PSo11UIFocusItem", "CGPoint"]
+- !private ["PSo11UIFocusItem", "UIColor"]
+- !private ["PSo11UIFocusItem", "backgroundColor"]
+- ["PSo11UIFocusItem", "createGradient"]
+- !private ["PSo11UIFocusItem", "frame"]
+- ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "layer"]
+- ["PSo11UIFocusItem", "layoutSubviews"]
+- !private ["PSo11UIFocusItem", "tag"]
+- ["PSo11UIFocusItem", ""]
+- !private ["CSo11UIResponder", "CAGradientLayer"]
+- !private ["CSo11UIResponder", "CGPoint"]
+- ["CSo11UIResponder", "NSCoder"]
+- !private ["CSo11UIResponder", "UIColor"]
+- ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "createGradient"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "layoutSubviews"]
+- !private ["CSo11UIResponder", "tag"]
+- !private ["PSo30UIResponderStandardEditActions", "CAGradientLayer"]
+- !private ["PSo30UIResponderStandardEditActions", "CGPoint"]
+- !private ["PSo30UIResponderStandardEditActions", "UIColor"]
+- !private ["PSo30UIResponderStandardEditActions", "backgroundColor"]
+- ["PSo30UIResponderStandardEditActions", "createGradient"]
+- !private ["PSo30UIResponderStandardEditActions", "frame"]
+- ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- ["PSo30UIResponderStandardEditActions", "layoutSubviews"]
+- !private ["PSo30UIResponderStandardEditActions", "tag"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo18UITraitEnvironment", "CAGradientLayer"]
+- !private ["PSo18UITraitEnvironment", "CGPoint"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- ["PSo18UITraitEnvironment", "createGradient"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", "layoutSubviews"]
+- !private ["PSo18UITraitEnvironment", "tag"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "CAGradientLayer"]
+- !private ["CSo6UIView", "CGPoint"]
+- ["CSo6UIView", "NSCoder"]
+- !private ["CSo6UIView", "UIColor"]
+- ["CSo6UIView", "Void"]
+- !private ["CSo6UIView", "backgroundColor"]
+- ["CSo6UIView", "createGradient"]
+- ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", "layoutSubviews"]
+- !private ["CSo6UIView", "tag"]
+- ["CSo6UIView", ""]
+- ["Su", "deinit"]
+- ["Vs6UInt32", "deinit"]
+- !private ["Ps14_ArrayProtocol", "Element"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "CAGradientLayer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "CGPoint"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UIColor"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "backgroundColor"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "createGradient"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "layoutSubviews"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "tag"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps24_DestructorSafeContainer", "Element"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByColorLiteral", "cgColor"]
+- !private ["Ps26_ExpressibleByColorLiteral", "init"]
+- !private ["Ps9_Hashable", "CAGradientLayer"]
+- !private ["Ps9_Hashable", "CGPoint"]
+- !private ["Ps9_Hashable", "UIColor"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "backgroundColor"]
+- !private ["Ps9_Hashable", "cgColor"]
+- !private ["Ps9_Hashable", "colors"]
+- ["Ps9_Hashable", "createGradient"]
+- !private ["Ps9_Hashable", "endPoint"]
+- !private ["Ps9_Hashable", "frame"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "insertSublayer"]
+- !private ["Ps9_Hashable", "layer"]
+- ["Ps9_Hashable", "layoutSubviews"]
+- !private ["Ps9_Hashable", "startPoint"]
+- !private ["Ps9_Hashable", "tag"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "Sb"
+- "CSo15CAGradientLayer"
+- "CSo7CALayer"
+- "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- "CSo7CGColor"
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C10Calculator12GradientView"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- "Si"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "Os5Never"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "Ps8Sequence"
+- "Vs12StaticString"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo7UIColor"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Su"
+- "Vs6UInt32"
+- !private "Ps14_ArrayProtocol"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByColorLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+interface-hash: "9c2b98c352c1a0d3230ff003c6051e58"

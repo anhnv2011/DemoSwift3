@@ -1,0 +1,323 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NumberButton"
+provides-nominal:
+- "C10Calculator12NumberButton"
+provides-member:
+- ["C10Calculator12NumberButton", ""]
+provides-dynamic-lookup:
+- "configureButton"
+depends-top-level:
+- "Void"
+- "NSCoder"
+- !private "StringLiteralType"
+- !private "UIFont"
+- !private "/"
+- "NumberButton"
+- !private "UIColor"
+- "UIButton"
+depends-member:
+- !private ["Ps9AnyObject", "CGColor"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "UIFont"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "borderColor"]
+- !private ["Ps9AnyObject", "borderWidth"]
+- ["Ps9AnyObject", "configureButton"]
+- !private ["Ps9AnyObject", "cornerRadius"]
+- !private ["Ps9AnyObject", "font"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "layer"]
+- !private ["Ps9AnyObject", "titleLabel"]
+- ["Ps9AnyObject", ""]
+- !private ["CSo7CALayer", "borderColor"]
+- !private ["CSo7CALayer", "borderWidth"]
+- !private ["CSo7CALayer", "cornerRadius"]
+- !private ["PSo13CAMediaTiming", "borderColor"]
+- !private ["PSo13CAMediaTiming", "borderWidth"]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["Ps11CVarArgType", "CGColor"]
+- !private ["Ps11CVarArgType", "UIColor"]
+- !private ["Ps11CVarArgType", "UIFont"]
+- !private ["Ps11CVarArgType", "backgroundColor"]
+- !private ["Ps11CVarArgType", "borderColor"]
+- !private ["Ps11CVarArgType", "borderWidth"]
+- ["Ps11CVarArgType", "configureButton"]
+- !private ["Ps11CVarArgType", "cornerRadius"]
+- !private ["Ps11CVarArgType", "font"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "layer"]
+- !private ["Ps11CVarArgType", "titleLabel"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UIFont"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "borderColor"]
+- !private ["Ps28CustomDebugStringConvertible", "borderWidth"]
+- ["Ps28CustomDebugStringConvertible", "configureButton"]
+- !private ["Ps28CustomDebugStringConvertible", "cornerRadius"]
+- !private ["Ps28CustomDebugStringConvertible", "font"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- !private ["Ps28CustomDebugStringConvertible", "titleLabel"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGColor"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "UIFont"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "borderColor"]
+- !private ["Ps23CustomStringConvertible", "borderWidth"]
+- ["Ps23CustomStringConvertible", "configureButton"]
+- !private ["Ps23CustomStringConvertible", "cornerRadius"]
+- !private ["Ps23CustomStringConvertible", "font"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- !private ["Ps23CustomStringConvertible", "titleLabel"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGColor"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "UIFont"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "borderColor"]
+- !private ["Ps9Equatable", "borderWidth"]
+- ["Ps9Equatable", "configureButton"]
+- !private ["Ps9Equatable", "cornerRadius"]
+- !private ["Ps9Equatable", "font"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "layer"]
+- !private ["Ps9Equatable", "titleLabel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "CGColor"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "UIFont"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "borderColor"]
+- !private ["Ps8Hashable", "borderWidth"]
+- ["Ps8Hashable", "configureButton"]
+- !private ["Ps8Hashable", "cornerRadius"]
+- !private ["Ps8Hashable", "font"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "layer"]
+- !private ["Ps8Hashable", "titleLabel"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "CGColor"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UIFont"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "borderColor"]
+- !private ["PSo8NSCoding", "borderWidth"]
+- ["PSo8NSCoding", "configureButton"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- !private ["PSo8NSCoding", "font"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- !private ["PSo8NSCoding", "titleLabel"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo8NSObject", "CGColor"]
+- ["CSo8NSObject", "NSCoder"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UIFont"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "borderColor"]
+- !private ["CSo8NSObject", "borderWidth"]
+- ["CSo8NSObject", "configureButton"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- !private ["CSo8NSObject", "font"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- !private ["CSo8NSObject", "titleLabel"]
+- !private ["PSo16NSObjectProtocol", "CGColor"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UIFont"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "borderColor"]
+- !private ["PSo16NSObjectProtocol", "borderWidth"]
+- ["PSo16NSObjectProtocol", "configureButton"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- !private ["PSo16NSObjectProtocol", "font"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- !private ["PSo16NSObjectProtocol", "titleLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "CGColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- ["C10Calculator12NumberButton", "NSCoder"]
+- !private ["C10Calculator12NumberButton", "UIColor"]
+- !private ["C10Calculator12NumberButton", "UIFont"]
+- ["C10Calculator12NumberButton", "Void"]
+- !private ["C10Calculator12NumberButton", "backgroundColor"]
+- ["C10Calculator12NumberButton", "configureButton"]
+- ["C10Calculator12NumberButton", "deinit"]
+- ["C10Calculator12NumberButton", "init"]
+- !private ["C10Calculator12NumberButton", "layer"]
+- !private ["C10Calculator12NumberButton", "titleLabel"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "UIColor"]
+- !private ["PSo29UIAccessibilityIdentification", "UIFont"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- ["PSo29UIAccessibilityIdentification", "configureButton"]
+- !private ["PSo29UIAccessibilityIdentification", "font"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo29UIAccessibilityIdentification", "titleLabel"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "UIColor"]
+- !private ["PSo12UIAppearance", "UIFont"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- ["PSo12UIAppearance", "configureButton"]
+- !private ["PSo12UIAppearance", "font"]
+- ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "layer"]
+- !private ["PSo12UIAppearance", "titleLabel"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UIFont"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- ["PSo21UIAppearanceContainer", "configureButton"]
+- !private ["PSo21UIAppearanceContainer", "font"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- !private ["PSo21UIAppearanceContainer", "titleLabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo8UIButton", "NSCoder"]
+- !private ["CSo8UIButton", "UIColor"]
+- !private ["CSo8UIButton", "UIFont"]
+- ["CSo8UIButton", "Void"]
+- !private ["CSo8UIButton", "backgroundColor"]
+- ["CSo8UIButton", "configureButton"]
+- ["CSo8UIButton", "init"]
+- !private ["CSo8UIButton", "layer"]
+- !private ["CSo8UIButton", "titleLabel"]
+- ["CSo8UIButton", ""]
+- !private ["CSo7UIColor", "CGColor"]
+- !private ["CSo7UIColor", "init"]
+- ["CSo9UIControl", "NSCoder"]
+- !private ["CSo9UIControl", "UIColor"]
+- !private ["CSo9UIControl", "UIFont"]
+- ["CSo9UIControl", "Void"]
+- !private ["CSo9UIControl", "backgroundColor"]
+- ["CSo9UIControl", "configureButton"]
+- ["CSo9UIControl", "init"]
+- !private ["CSo9UIControl", "layer"]
+- !private ["CSo9UIControl", "titleLabel"]
+- !private ["PSo17UICoordinateSpace", "UIColor"]
+- !private ["PSo17UICoordinateSpace", "UIFont"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- ["PSo17UICoordinateSpace", "configureButton"]
+- !private ["PSo17UICoordinateSpace", "font"]
+- ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo17UICoordinateSpace", "titleLabel"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "UIColor"]
+- !private ["PSo13UIDynamicItem", "UIFont"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- ["PSo13UIDynamicItem", "configureButton"]
+- !private ["PSo13UIDynamicItem", "font"]
+- ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- !private ["PSo13UIDynamicItem", "titleLabel"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UIFont"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- ["PSo18UIFocusEnvironment", "configureButton"]
+- !private ["PSo18UIFocusEnvironment", "font"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- !private ["PSo18UIFocusEnvironment", "titleLabel"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo6UIFont", "init"]
+- !private ["CSo7UILabel", "font"]
+- ["CSo11UIResponder", "NSCoder"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UIFont"]
+- ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "configureButton"]
+- !private ["CSo11UIResponder", "font"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- !private ["CSo11UIResponder", "titleLabel"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UIFont"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- ["PSo18UITraitEnvironment", "configureButton"]
+- !private ["PSo18UITraitEnvironment", "font"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- !private ["PSo18UITraitEnvironment", "titleLabel"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "NSCoder"]
+- !private ["CSo6UIView", "UIColor"]
+- !private ["CSo6UIView", "UIFont"]
+- ["CSo6UIView", "Void"]
+- !private ["CSo6UIView", "backgroundColor"]
+- ["CSo6UIView", "configureButton"]
+- !private ["CSo6UIView", "font"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "layer"]
+- !private ["CSo6UIView", "titleLabel"]
+- !private ["Ps24_ColorLiteralConvertible", "CGColor"]
+- !private ["Ps24_ColorLiteralConvertible", "init"]
+- !private ["Ps12_Reflectable", "UIColor"]
+- !private ["Ps12_Reflectable", "UIFont"]
+- !private ["Ps12_Reflectable", "backgroundColor"]
+- ["Ps12_Reflectable", "configureButton"]
+- !private ["Ps12_Reflectable", "font"]
+- ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "layer"]
+- !private ["Ps12_Reflectable", "titleLabel"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "CSo7CALayer"
+- !private "PSo13CAMediaTiming"
+- !private "V12CoreGraphics7CGFloat"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- "C10Calculator12NumberButton"
+- !private "Vs12StaticString"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo8UIButton"
+- !private "CSo7UIColor"
+- "CSo9UIControl"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo6UIFont"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps24_ColorLiteralConvertible"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/i386/CoreAudio.swiftmodule"
+interface-hash: "8ca2b95a0235bfbfbfb50f321d871d1f"

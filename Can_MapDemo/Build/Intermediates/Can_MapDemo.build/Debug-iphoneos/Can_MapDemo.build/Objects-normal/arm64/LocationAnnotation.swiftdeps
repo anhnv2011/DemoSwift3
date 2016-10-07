@@ -1,0 +1,96 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LocationAnnotation"
+provides-nominal:
+- "C11Can_MapDemo18LocationAnnotation"
+provides-member:
+- ["C11Can_MapDemo18LocationAnnotation", ""]
+provides-dynamic-lookup:
+- "title"
+- "coordinate"
+depends-top-level:
+- "MKAnnotation"
+- "String"
+- "CLLocationCoordinate2D"
+- "NSObject"
+- !private "StringLiteralType"
+- "LocationAnnotation"
+depends-member:
+- ["Ps9AnyObject", "coordinate"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "subtitle"]
+- ["Ps9AnyObject", "title"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "coordinate"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "subtitle"]
+- ["Ps11CVarArgType", "title"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "coordinate"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "subtitle"]
+- ["Ps28CustomDebugStringConvertible", "title"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "coordinate"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "subtitle"]
+- ["Ps23CustomStringConvertible", "title"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "coordinate"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "subtitle"]
+- ["Ps9Equatable", "title"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "coordinate"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "subtitle"]
+- ["Ps8Hashable", "title"]
+- ["Ps8Hashable", ""]
+- ["C11Can_MapDemo18LocationAnnotation", "CLLocationCoordinate2D"]
+- ["C11Can_MapDemo18LocationAnnotation", "String"]
+- ["C11Can_MapDemo18LocationAnnotation", "coordinate"]
+- ["C11Can_MapDemo18LocationAnnotation", "deinit"]
+- ["C11Can_MapDemo18LocationAnnotation", "init"]
+- ["C11Can_MapDemo18LocationAnnotation", "subtitle"]
+- ["C11Can_MapDemo18LocationAnnotation", "title"]
+- ["PSo12MKAnnotation", "coordinate"]
+- ["PSo12MKAnnotation", "subtitle"]
+- ["PSo12MKAnnotation", "title"]
+- ["PSo12MKAnnotation", ""]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "coordinate"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "subtitle"]
+- ["CSo8NSObject", "title"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "coordinate"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "subtitle"]
+- ["PSo16NSObjectProtocol", "title"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Vs12StaticString", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "C11Can_MapDemo18LocationAnnotation"
+- "PSo12MKAnnotation"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Vs12StaticString"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+interface-hash: "04b3adf8a9222de8cb477e8727f84607"

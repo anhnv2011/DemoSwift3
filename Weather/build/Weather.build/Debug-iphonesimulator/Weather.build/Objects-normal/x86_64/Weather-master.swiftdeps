@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8962e6c657fb9dce4354d3a2a77bde4e"
+build_time: [527685884, 611540000]
+inputs:
+  "/Users/vinhthe/Documents/Swift 3.0 update/Weather/Weather/ViewController.swift": [527684438, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/Weather/Weather/AppDelegate.swift": [527684438, 0]

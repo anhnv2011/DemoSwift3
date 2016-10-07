@@ -1,0 +1,341 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DetailViewController"
+provides-nominal:
+- "C17FinalDetailMaster20DetailViewController"
+provides-member:
+- ["C17FinalDetailMaster20DetailViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "nameLabel"
+- "viewDidLoad"
+- "name"
+- "configure"
+depends-top-level:
+- "UILabel"
+- "UIViewController"
+- "AssignmentPrecedence"
+- "DetailViewController"
+- !private "BooleanLiteralType"
+- "String"
+depends-member:
+- ["Ps9AnyObject", "configure"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "displayModeButtonItem"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "leftBarButtonItem"]
+- !private ["Ps9AnyObject", "leftItemsSupplementBackButton"]
+- ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "nameLabel"]
+- !private ["Ps9AnyObject", "navigationItem"]
+- !private ["Ps9AnyObject", "splitViewController"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "text"]
+- ["Ps7CVarArg", "configure"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "displayModeButtonItem"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "leftBarButtonItem"]
+- !private ["Ps7CVarArg", "leftItemsSupplementBackButton"]
+- ["Ps7CVarArg", "name"]
+- ["Ps7CVarArg", "nameLabel"]
+- !private ["Ps7CVarArg", "navigationItem"]
+- !private ["Ps7CVarArg", "splitViewController"]
+- !private ["Ps7CVarArg", "text"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "configure"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "displayModeButtonItem"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "leftBarButtonItem"]
+- !private ["Ps28CustomDebugStringConvertible", "leftItemsSupplementBackButton"]
+- ["Ps28CustomDebugStringConvertible", "name"]
+- ["Ps28CustomDebugStringConvertible", "nameLabel"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationItem"]
+- ["Ps28CustomDebugStringConvertible", "some"]
+- !private ["Ps28CustomDebugStringConvertible", "splitViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps17CustomReflectable", "some"]
+- ["Ps23CustomStringConvertible", "configure"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "displayModeButtonItem"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "leftBarButtonItem"]
+- !private ["Ps23CustomStringConvertible", "leftItemsSupplementBackButton"]
+- ["Ps23CustomStringConvertible", "name"]
+- ["Ps23CustomStringConvertible", "nameLabel"]
+- !private ["Ps23CustomStringConvertible", "navigationItem"]
+- !private ["Ps23CustomStringConvertible", "splitViewController"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["C17FinalDetailMaster20DetailViewController", "String"]
+- ["C17FinalDetailMaster20DetailViewController", "UILabel"]
+- ["C17FinalDetailMaster20DetailViewController", "configure"]
+- ["C17FinalDetailMaster20DetailViewController", "deinit"]
+- ["C17FinalDetailMaster20DetailViewController", "didReceiveMemoryWarning"]
+- ["C17FinalDetailMaster20DetailViewController", "init"]
+- ["C17FinalDetailMaster20DetailViewController", "name"]
+- ["C17FinalDetailMaster20DetailViewController", "nameLabel"]
+- !private ["C17FinalDetailMaster20DetailViewController", "navigationItem"]
+- !private ["C17FinalDetailMaster20DetailViewController", "splitViewController"]
+- ["C17FinalDetailMaster20DetailViewController", "viewDidLoad"]
+- ["Ps9Equatable", "configure"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "displayModeButtonItem"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "leftBarButtonItem"]
+- !private ["Ps9Equatable", "leftItemsSupplementBackButton"]
+- ["Ps9Equatable", "name"]
+- ["Ps9Equatable", "nameLabel"]
+- !private ["Ps9Equatable", "navigationItem"]
+- !private ["Ps9Equatable", "splitViewController"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps23ExpressibleByNilLiteral", "some"]
+- ["Ps8Hashable", "configure"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "displayModeButtonItem"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "leftBarButtonItem"]
+- !private ["Ps8Hashable", "leftItemsSupplementBackButton"]
+- ["Ps8Hashable", "name"]
+- ["Ps8Hashable", "nameLabel"]
+- !private ["Ps8Hashable", "navigationItem"]
+- !private ["Ps8Hashable", "splitViewController"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "configure"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "displayModeButtonItem"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "leftBarButtonItem"]
+- !private ["PSo8NSCoding", "leftItemsSupplementBackButton"]
+- ["PSo8NSCoding", "name"]
+- ["PSo8NSCoding", "nameLabel"]
+- !private ["PSo8NSCoding", "navigationItem"]
+- !private ["PSo8NSCoding", "splitViewController"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "configure"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "displayModeButtonItem"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "name"]
+- ["PSo26NSExtensionRequestHandling", "nameLabel"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationItem"]
+- !private ["PSo26NSExtensionRequestHandling", "splitViewController"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "configure"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "displayModeButtonItem"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "leftBarButtonItem"]
+- !private ["CSo8NSObject", "leftItemsSupplementBackButton"]
+- ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "nameLabel"]
+- !private ["CSo8NSObject", "navigationItem"]
+- !private ["CSo8NSObject", "splitViewController"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "configure"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "displayModeButtonItem"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "leftBarButtonItem"]
+- !private ["PSo16NSObjectProtocol", "leftItemsSupplementBackButton"]
+- ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "nameLabel"]
+- !private ["PSo16NSObjectProtocol", "navigationItem"]
+- !private ["PSo16NSObjectProtocol", "splitViewController"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["Sq", "some"]
+- ["SS", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo21UIAppearanceContainer", "configure"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "displayModeButtonItem"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "name"]
+- ["PSo21UIAppearanceContainer", "nameLabel"]
+- !private ["PSo21UIAppearanceContainer", "navigationItem"]
+- !private ["PSo21UIAppearanceContainer", "splitViewController"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo15UIBarButtonItem", "deinit"]
+- ["PSo18UIContentContainer", "configure"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "displayModeButtonItem"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "name"]
+- ["PSo18UIContentContainer", "nameLabel"]
+- !private ["PSo18UIContentContainer", "navigationItem"]
+- !private ["PSo18UIContentContainer", "splitViewController"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo18UIFocusEnvironment", "configure"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "displayModeButtonItem"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "name"]
+- ["PSo18UIFocusEnvironment", "nameLabel"]
+- !private ["PSo18UIFocusEnvironment", "navigationItem"]
+- !private ["PSo18UIFocusEnvironment", "splitViewController"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "text"]
+- ["CSo7UILabel", "deinit"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo16UINavigationItem", "deinit"]
+- !private ["CSo16UINavigationItem", "leftBarButtonItem"]
+- !private ["CSo16UINavigationItem", "leftItemsSupplementBackButton"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "configure"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "displayModeButtonItem"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "name"]
+- ["CSo11UIResponder", "nameLabel"]
+- !private ["CSo11UIResponder", "navigationItem"]
+- !private ["CSo11UIResponder", "splitViewController"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "configure"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "displayModeButtonItem"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "name"]
+- ["PSo30UIResponderStandardEditActions", "nameLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationItem"]
+- !private ["PSo30UIResponderStandardEditActions", "splitViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo21UISplitViewController", "deinit"]
+- !private ["CSo21UISplitViewController", "displayModeButtonItem"]
+- ["PSo16UIStateRestoring", "configure"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "displayModeButtonItem"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "name"]
+- ["PSo16UIStateRestoring", "nameLabel"]
+- !private ["PSo16UIStateRestoring", "navigationItem"]
+- !private ["PSo16UIStateRestoring", "splitViewController"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "configure"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "displayModeButtonItem"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "name"]
+- ["PSo18UITraitEnvironment", "nameLabel"]
+- !private ["PSo18UITraitEnvironment", "navigationItem"]
+- !private ["PSo18UITraitEnvironment", "splitViewController"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "configure"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- !private ["CSo16UIViewController", "displayModeButtonItem"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "name"]
+- ["CSo16UIViewController", "nameLabel"]
+- !private ["CSo16UIViewController", "navigationItem"]
+- !private ["CSo16UIViewController", "splitViewController"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- ["Ps9_Hashable", "configure"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "displayModeButtonItem"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "leftBarButtonItem"]
+- !private ["Ps9_Hashable", "leftItemsSupplementBackButton"]
+- ["Ps9_Hashable", "name"]
+- ["Ps9_Hashable", "nameLabel"]
+- !private ["Ps9_Hashable", "navigationItem"]
+- !private ["Ps9_Hashable", "splitViewController"]
+- !private ["Ps9_Hashable", "text"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "C17FinalDetailMaster20DetailViewController"
+- "Ps9Equatable"
+- "Ps23ExpressibleByNilLiteral"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "SS"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo15UIBarButtonItem"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo7UILabel"
+- "CSo16UINavigationItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo21UISplitViewController"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "c48c5ee7fab01bb2fa59d00076535895"

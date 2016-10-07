@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DemoPopover
+
+  Created by Tuuu on 7/29/16.
+  Copyright © 2016 CanhDang. All rights reserved.
+*/
+"Benjamin Franklin" = "ベンジャミン・フランクリン";
+"July 14 at 10:16 am" = "10時16分午前で7月14日";
+"An investment in knowledge pays the best interest." = "知識への投資は、最高の利息が支払われます。";
+"Write a comment..." = "コメントを書く...";
+"Like" = "以下のような";
+"Share" = "シェア";
+"Comment" = "コメント";

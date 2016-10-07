@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "80f5c104324f95e20bddb6b74317d54f"
+build_time: [527686016, 328895000]
+inputs:
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/CustomTextField.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/AddNewContactVC.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/Person.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/AppDelegate.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/ContactListVC.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/CellLabel.swift": [9223372036854775807, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/NSURLSession/NSURLSession/DetailContactCell.swift": [9223372036854775807, 0]

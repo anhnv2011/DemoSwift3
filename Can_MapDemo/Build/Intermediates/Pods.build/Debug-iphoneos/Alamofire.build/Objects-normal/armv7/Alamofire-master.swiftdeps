@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "6a5a2b3795c465b196c8c8182bf05fb2"
+build_time: [525436473, 717068000]
+inputs:
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Alamofire.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Download.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Error.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Manager.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/MultipartFormData.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Notifications.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/ParameterEncoding.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Request.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Response.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/ResponseSerialization.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Result.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/ServerTrustPolicy.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Stream.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Timeline.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Upload.swift": [524980763, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Pods/Alamofire/Source/Validation.swift": [524980763, 0]

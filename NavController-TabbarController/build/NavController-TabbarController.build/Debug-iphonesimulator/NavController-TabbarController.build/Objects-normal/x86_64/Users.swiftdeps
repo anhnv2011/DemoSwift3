@@ -1,0 +1,44 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "User"
+provides-nominal:
+- "C30NavController_TabbarController4User"
+provides-member:
+- ["C30NavController_TabbarController4User", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "AssignmentPrecedence"
+- "User"
+depends-member:
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "password"]
+- ["Ps9AnyObject", ""]
+- ["SQ", "deinit"]
+- ["SS", "deinit"]
+- ["C30NavController_TabbarController4User", "String"]
+- ["C30NavController_TabbarController4User", "deinit"]
+- ["C30NavController_TabbarController4User", "init"]
+- ["C30NavController_TabbarController4User", "name"]
+- ["C30NavController_TabbarController4User", "password"]
+depends-nominal:
+- "Ps9AnyObject"
+- "SQ"
+- "SS"
+- "C30NavController_TabbarController4User"
+depends-dynamic-lookup:
+depends-external:
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+interface-hash: "131c24bd93a6ac4978c847c8fb1b088e"

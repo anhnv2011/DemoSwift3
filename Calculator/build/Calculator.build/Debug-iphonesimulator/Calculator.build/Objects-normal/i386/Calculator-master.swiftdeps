@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "bc681312b5babd995079f79595fdeefa"
+build_time: [525153133, 836453000]
+inputs:
+  "/Volumes/Data/Techmaster-lessons/Calculator Lesson/Calculator/Calculator/NumberButton.swift": [521279425, 0]
+  "/Volumes/Data/Techmaster-lessons/Calculator Lesson/Calculator/Calculator/ViewController.swift": [521310065, 0]
+  "/Volumes/Data/Techmaster-lessons/Calculator Lesson/Calculator/Calculator/GradientView.swift": [521282302, 0]
+  "/Volumes/Data/Techmaster-lessons/Calculator Lesson/Calculator/Calculator/AppDelegate.swift": [521117555, 0]
+  "/Volumes/Data/Techmaster-lessons/Calculator Lesson/Calculator/Calculator/OperatorsButton.swift": [521281592, 0]

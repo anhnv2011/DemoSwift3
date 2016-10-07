@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageheader</key>
+		<string>Importing Patient and Media Data from Email</string>
+		<key>helpname</key>
+		<string>How to Import Patient Data from Email</string>
+		<key>numofpage</key>
+		<integer>5</integer>
+		<key>imagetitle</key>
+		<array>
+			<string>Importing Patient and Media Data from Email </string>
+			<string>Importing Patient and Media Data from Email </string>
+			<string>Importing Patient and Media Data from Email </string>
+			<string>Importing Patient and Media Data from Email </string>
+			<string>Importing Patient and Media Data from Email </string>
+		</array>
+		<key>imagename</key>
+		<array>
+			<string>email-0</string>
+			<string>email-1_1</string>
+			<string>email-2</string>
+			<string>email-3</string>
+			<string>DisplayView</string>
+		</array>
+		<key>imagedescription</key>
+		<array>
+			<string>Tap here to download data file and Wait until the file is downloaded completely</string>
+			<string>Long press on the file.zip</string>
+			<string>Select Copy to Dyonics Pulse Lite</string>
+			<string>If the zipped file is encrypted, enter the encrypted file&apos;s password and select OK button</string>
+			<string>After file is unzipped, this main view is displayed</string>
+		</array>
+	</dict>
+	<dict>
+		<key>imageheader</key>
+		<string>Importing Patient and Media Data directly from Dropbox link</string>
+		<key>helpname</key>
+		<string>How to Import Patient Data from Direct Link from Dropbox</string>
+		<key>numofpage</key>
+		<integer>7</integer>
+		<key>imagetitle</key>
+		<array>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+			<string>Importing Patient and Media Data directly from Dropbox link</string>
+		</array>
+		<key>imagename</key>
+		<array>
+			<string>dropbox-0</string>
+			<string>dropbox-1</string>
+			<string>dropbox-2</string>
+			<string>dropbox-3</string>
+			<string>dropbox-4</string>
+			<string>dropbox-5</string>
+			<string>DisplayView</string>
+		</array>
+		<key>imagedescription</key>
+		<array>
+			<string>Tap link to a Dropbox page from inside the Email</string>
+			<string>Select Download</string>
+			<string>Select the link Direct download and Wait until the file is downloaded completely</string>
+			<string>Select Open in...</string>
+			<string>Select Copy to Dyonics Pulse Lite</string>
+			<string>If the zipped file is encrypted, enter the encrypted file&apos;s password and select OK button</string>
+			<string>After file is unzipped, this main view is displayed</string>
+		</array>
+	</dict>
+	<dict>
+		<key>imageheader</key>
+		<string>Importing Patient and Media Data from Dropbox Application</string>
+		<key>helpname</key>
+		<string>How to Import Patient Data from Dropbox Application</string>
+		<key>numofpage</key>
+		<integer>8</integer>
+		<key>imagetitle</key>
+		<array>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+			<string>Importing Patient and Media Data from Dropbox Application</string>
+		</array>
+		<key>imagename</key>
+		<array>
+			<string>dropbox-0</string>
+			<string>appdropbox-1</string>
+			<string>appdropbox-2</string>
+			<string>appdropbox-3</string>
+			<string>appdropbox-4</string>
+			<string>appdropbox-5</string>
+			<string>email-3</string>
+			<string>DisplayView</string>
+		</array>
+		<key>imagedescription</key>
+		<array>
+			<string>Tap link to a Dropbox page from inside the email</string>
+			<string>Select Open in App</string>
+			<string>Wait until the file is downloaded completely</string>
+			<string>Select Open in...</string>
+			<string>Select Copy to Dyonics Pulse Lite</string>
+			<string>Wait until File is exported</string>
+			<string>If the zipped file is encrypted, enter the encrypted file&apos;s password and select OK button</string>
+			<string>After file is unzipped, this main view is displayed</string>
+		</array>
+	</dict>
+	<dict>
+		<key>imageheader</key>
+		<string>Importing Patient and Media Data directly from Box.com link</string>
+		<key>helpname</key>
+		<string>How to Import Patient Data from Direct Link from Box.com</string>
+		<key>numofpage</key>
+		<integer>6</integer>
+		<key>imagetitle</key>
+		<array>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+			<string>Importing Patient and Media Data directly from Box.com link</string>
+		</array>
+		<key>imagename</key>
+		<array>
+			<string>box-0</string>
+			<string>box-1</string>
+			<string>box-2</string>
+			<string>box-3</string>
+			<string>box-4</string>
+			<string>DisplayView</string>
+		</array>
+		<key>imagedescription</key>
+		<array>
+			<string>Tap link to a Box.com page from inside the email</string>
+			<string>Select Download and Wait until the file is downloaded completely</string>
+			<string>Select Open in...</string>
+			<string>Select Copy to Dyonics Pulse Lite</string>
+			<string>If the zipped file is encrypted, enter the encrypted file&apos;s password and select OK button</string>
+			<string>After file is unzipped, this main view is displayed</string>
+		</array>
+	</dict>
+	<dict>
+		<key>imageheader</key>
+		<string>Importing Patient and Media Data from Box.com Application</string>
+		<key>helpname</key>
+		<string>How to Import Patient Data from Box.com Application</string>
+		<key>numofpage</key>
+		<integer>8</integer>
+		<key>imagetitle</key>
+		<array>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+			<string>Importing Patient and Media Data from Box.com Application</string>
+		</array>
+		<key>imagename</key>
+		<array>
+			<string>box-0</string>
+			<string>appbox-1</string>
+			<string>appbox-4</string>
+			<string>appbox-5</string>
+			<string>appbox-6</string>
+			<string>appbox-7</string>
+			<string>email-3</string>
+			<string>DisplayView</string>
+		</array>
+		<key>imagedescription</key>
+		<array>
+			<string>Tap link to a Box.com page from inside the email</string>
+			<string>Select Open in App</string>
+			<string>Select the Button</string>
+			<string>Tab Open in...</string>
+			<string>Wait until the file is downloaded completely</string>
+			<string>Select Copy to Dyonics Pulse Lite</string>
+			<string>If the zipped file is encrypted, enter the encrypted file&apos;s password and select OK button</string>
+			<string>After file is unzipped, this main view is displayed</string>
+		</array>
+	</dict>
+</array>
+</plist>

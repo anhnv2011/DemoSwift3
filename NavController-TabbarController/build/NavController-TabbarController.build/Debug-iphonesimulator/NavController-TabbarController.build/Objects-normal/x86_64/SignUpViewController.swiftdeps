@@ -1,0 +1,269 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignUpViewController"
+provides-nominal:
+- "C30NavController_TabbarController20SignUpViewController"
+provides-member:
+- ["C30NavController_TabbarController20SignUpViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "logoTopContraint"
+- "changeBackgroundColor"
+depends-top-level:
+- "AnyObject"
+- !private "StringLiteralType"
+- "Void"
+- "BaseViewController"
+- "NSLayoutConstraint"
+- !private "print"
+- "SignUpViewController"
+depends-member:
+- ["Ps9AnyObject", "changeBackgroundColor"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "logoTopContraint"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "updateContraint"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["C30NavController_TabbarController18BaseViewController", "AnyObject"]
+- ["C30NavController_TabbarController18BaseViewController", "NSLayoutConstraint"]
+- ["C30NavController_TabbarController18BaseViewController", "Void"]
+- ["C30NavController_TabbarController18BaseViewController", "changeBackgroundColor"]
+- ["C30NavController_TabbarController18BaseViewController", "deinit"]
+- ["C30NavController_TabbarController18BaseViewController", "init"]
+- ["C30NavController_TabbarController18BaseViewController", "logoTopContraint"]
+- !private ["C30NavController_TabbarController18BaseViewController", "print"]
+- !private ["C30NavController_TabbarController18BaseViewController", "updateContraint"]
+- ["C30NavController_TabbarController18BaseViewController", "viewDidLoad"]
+- ["C30NavController_TabbarController18BaseViewController", ""]
+- ["Ps7CVarArg", "changeBackgroundColor"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "logoTopContraint"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "updateContraint"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "changeBackgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "logoTopContraint"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "updateContraint"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "changeBackgroundColor"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "logoTopContraint"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "updateContraint"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "changeBackgroundColor"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "logoTopContraint"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "updateContraint"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "changeBackgroundColor"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "logoTopContraint"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "updateContraint"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "changeBackgroundColor"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "logoTopContraint"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "updateContraint"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "changeBackgroundColor"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "logoTopContraint"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- !private ["PSo26NSExtensionRequestHandling", "updateContraint"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "NSLayoutConstraint"]
+- ["CSo8NSObject", "Void"]
+- ["CSo8NSObject", "changeBackgroundColor"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "logoTopContraint"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "updateContraint"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "changeBackgroundColor"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "logoTopContraint"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "updateContraint"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["C30NavController_TabbarController20SignUpViewController", "AnyObject"]
+- ["C30NavController_TabbarController20SignUpViewController", "NSLayoutConstraint"]
+- ["C30NavController_TabbarController20SignUpViewController", "Void"]
+- ["C30NavController_TabbarController20SignUpViewController", "changeBackgroundColor"]
+- ["C30NavController_TabbarController20SignUpViewController", "deinit"]
+- ["C30NavController_TabbarController20SignUpViewController", "init"]
+- ["C30NavController_TabbarController20SignUpViewController", "logoTopContraint"]
+- !private ["C30NavController_TabbarController20SignUpViewController", "print"]
+- !private ["C30NavController_TabbarController20SignUpViewController", "updateContraint"]
+- ["C30NavController_TabbarController20SignUpViewController", "viewDidLoad"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["PSo21UIAppearanceContainer", "changeBackgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "logoTopContraint"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- !private ["PSo21UIAppearanceContainer", "updateContraint"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "changeBackgroundColor"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "logoTopContraint"]
+- !private ["PSo18UIContentContainer", "print"]
+- !private ["PSo18UIContentContainer", "updateContraint"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "changeBackgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "logoTopContraint"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "updateContraint"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "NSLayoutConstraint"]
+- ["CSo11UIResponder", "Void"]
+- ["CSo11UIResponder", "changeBackgroundColor"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "logoTopContraint"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "updateContraint"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "changeBackgroundColor"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "logoTopContraint"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- !private ["PSo30UIResponderStandardEditActions", "updateContraint"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo16UIStateRestoring", "changeBackgroundColor"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "logoTopContraint"]
+- !private ["PSo16UIStateRestoring", "print"]
+- !private ["PSo16UIStateRestoring", "updateContraint"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "changeBackgroundColor"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "logoTopContraint"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- !private ["PSo18UITraitEnvironment", "updateContraint"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "NSLayoutConstraint"]
+- ["CSo16UIViewController", "Void"]
+- ["CSo16UIViewController", "changeBackgroundColor"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "logoTopContraint"]
+- !private ["CSo16UIViewController", "print"]
+- !private ["CSo16UIViewController", "updateContraint"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "changeBackgroundColor"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "logoTopContraint"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "updateContraint"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C30NavController_TabbarController18BaseViewController"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "C30NavController_TabbarController20SignUpViewController"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Volumes/Data/Software/Xcode 8.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/IQKeyboardManagerSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-Swift.h"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Headers/IQKeyboardManagerSwift-umbrella.h"
+- "/Users/vinhthe/Documents/Swift 3.0 update/NavController-TabbarController/build/Debug-iphonesimulator/IQKeyboardManagerSwift.framework/Modules/module.modulemap"
+interface-hash: "f03957157f303749eeb4272f7a769882"

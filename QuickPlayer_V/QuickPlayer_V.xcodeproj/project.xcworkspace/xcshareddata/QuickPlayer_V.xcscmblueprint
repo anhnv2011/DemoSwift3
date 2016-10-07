@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CE08A9490408DFD3E93DF42C04A0CEC11167A1B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CE08A9490408DFD3E93DF42C04A0CEC11167A1B4" : 9223372036854775807,
+    "DC5ADC22CC3B748226728979B16C51449FECA34D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51F7011E-E99E-4951-9C34-86DCF9922BC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CE08A9490408DFD3E93DF42C04A0CEC11167A1B4" : "QuickPlayer_V\/",
+    "DC5ADC22CC3B748226728979B16C51449FECA34D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "QuickPlayer_V",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "QuickPlayer_V.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/chungkol\/QuickPlayerV.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE08A9490408DFD3E93DF42C04A0CEC11167A1B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gitlab\/root\/NangCapBaiGiangSwift2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC5ADC22CC3B748226728979B16C51449FECA34D"
+    }
+  ]
+}

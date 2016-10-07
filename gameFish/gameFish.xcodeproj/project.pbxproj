@@ -1,0 +1,362 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		16E1013F1D911E3D00CA5380 /* Fade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 16E1013E1D911E3D00CA5380 /* Fade.mp3 */; };
+		16E101411D911E9D00CA5380 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 16E101401D911E9D00CA5380 /* music.mp3 */; };
+		16E101451D91226300CA5380 /* nhac song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 16E101441D91226300CA5380 /* nhac song.mp3 */; };
+		16E101471D9123FB00CA5380 /* underOcean.png in Resources */ = {isa = PBXBuildFile; fileRef = 16E101461D9123FB00CA5380 /* underOcean.png */; };
+		16E101491D91259B00CA5380 /* bluefish.png in Resources */ = {isa = PBXBuildFile; fileRef = 16E101481D91259B00CA5380 /* bluefish.png */; };
+		16E101531D91295300CA5380 /* fishroll.png in Resources */ = {isa = PBXBuildFile; fileRef = 16E101521D91295300CA5380 /* fishroll.png */; };
+		16E101581D91312200CA5380 /* lifeup.wav in Resources */ = {isa = PBXBuildFile; fileRef = 16E101571D91312200CA5380 /* lifeup.wav */; };
+		3B024C241C2B9AA80070A1E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B024C231C2B9AA80070A1E6 /* AppDelegate.swift */; };
+		3B024C261C2B9AA80070A1E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B024C251C2B9AA80070A1E6 /* ViewController.swift */; };
+		3B024C291C2B9AA80070A1E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B024C271C2B9AA80070A1E6 /* Main.storyboard */; };
+		3B024C2B1C2B9AA80070A1E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B024C2A1C2B9AA80070A1E6 /* Assets.xcassets */; };
+		3B024C2E1C2B9AA80070A1E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B024C2C1C2B9AA80070A1E6 /* LaunchScreen.storyboard */; };
+		3B024C361C2B9AD20070A1E6 /* FishView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B024C351C2B9AD20070A1E6 /* FishView.swift */; };
+		3B024C381C2B9AE30070A1E6 /* HookerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B024C371C2B9AE30070A1E6 /* HookerView.swift */; };
+		3B024C3A1C2B9AF40070A1E6 /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B024C391C2B9AF40070A1E6 /* GameManager.swift */; };
+		3BFFF6F81C2BE006000FA1BB /* ocean.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFFF6F51C2BE006000FA1BB /* ocean.png */; };
+		3BFFF6F91C2BE006000FA1BB /* fish1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFFF6F61C2BE006000FA1BB /* fish1.png */; };
+		3BFFF6FC1C2BF911000FA1BB /* hook.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BFFF6FB1C2BF911000FA1BB /* hook.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		16E1013E1D911E3D00CA5380 /* Fade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fade.mp3; sourceTree = "<group>"; };
+		16E101401D911E9D00CA5380 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
+		16E101441D91226300CA5380 /* nhac song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "nhac song.mp3"; sourceTree = "<group>"; };
+		16E101461D9123FB00CA5380 /* underOcean.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = underOcean.png; sourceTree = "<group>"; };
+		16E101481D91259B00CA5380 /* bluefish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bluefish.png; sourceTree = "<group>"; };
+		16E101521D91295300CA5380 /* fishroll.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fishroll.png; sourceTree = "<group>"; };
+		16E101561D912F3A00CA5380 /* comedy.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = comedy.aif; sourceTree = "<group>"; };
+		16E101571D91312200CA5380 /* lifeup.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lifeup.wav; sourceTree = "<group>"; };
+		3B024C201C2B9AA80070A1E6 /* gameFish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gameFish.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B024C231C2B9AA80070A1E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3B024C251C2B9AA80070A1E6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3B024C281C2B9AA80070A1E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3B024C2A1C2B9AA80070A1E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3B024C2D1C2B9AA80070A1E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3B024C2F1C2B9AA80070A1E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B024C351C2B9AD20070A1E6 /* FishView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FishView.swift; sourceTree = "<group>"; };
+		3B024C371C2B9AE30070A1E6 /* HookerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HookerView.swift; sourceTree = "<group>"; };
+		3B024C391C2B9AF40070A1E6 /* GameManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
+		3BFFF6F51C2BE006000FA1BB /* ocean.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ocean.png; sourceTree = "<group>"; };
+		3BFFF6F61C2BE006000FA1BB /* fish1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fish1.png; sourceTree = "<group>"; };
+		3BFFF6FB1C2BF911000FA1BB /* hook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hook.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B024C1D1C2B9AA80070A1E6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		16E101431D91222E00CA5380 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				3BFFF6FB1C2BF911000FA1BB /* hook.png */,
+				16E101401D911E9D00CA5380 /* music.mp3 */,
+				16E101571D91312200CA5380 /* lifeup.wav */,
+				3BFFF6F61C2BE006000FA1BB /* fish1.png */,
+				16E101441D91226300CA5380 /* nhac song.mp3 */,
+				16E101521D91295300CA5380 /* fishroll.png */,
+				16E101461D9123FB00CA5380 /* underOcean.png */,
+				16E101481D91259B00CA5380 /* bluefish.png */,
+				16E101561D912F3A00CA5380 /* comedy.aif */,
+				16E1013E1D911E3D00CA5380 /* Fade.mp3 */,
+				3BFFF6F51C2BE006000FA1BB /* ocean.png */,
+			);
+			name = resource;
+			sourceTree = "<group>";
+		};
+		3B024C171C2B9AA80070A1E6 = {
+			isa = PBXGroup;
+			children = (
+				3B024C221C2B9AA80070A1E6 /* gameFish */,
+				3B024C211C2B9AA80070A1E6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3B024C211C2B9AA80070A1E6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3B024C201C2B9AA80070A1E6 /* gameFish.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3B024C221C2B9AA80070A1E6 /* gameFish */ = {
+			isa = PBXGroup;
+			children = (
+				16E101431D91222E00CA5380 /* resource */,
+				3B024C231C2B9AA80070A1E6 /* AppDelegate.swift */,
+				3B024C251C2B9AA80070A1E6 /* ViewController.swift */,
+				3B024C351C2B9AD20070A1E6 /* FishView.swift */,
+				3B024C371C2B9AE30070A1E6 /* HookerView.swift */,
+				3B024C391C2B9AF40070A1E6 /* GameManager.swift */,
+				3B024C271C2B9AA80070A1E6 /* Main.storyboard */,
+				3B024C2A1C2B9AA80070A1E6 /* Assets.xcassets */,
+				3B024C2C1C2B9AA80070A1E6 /* LaunchScreen.storyboard */,
+				3B024C2F1C2B9AA80070A1E6 /* Info.plist */,
+			);
+			path = gameFish;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3B024C1F1C2B9AA80070A1E6 /* gameFish */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3B024C321C2B9AA80070A1E6 /* Build configuration list for PBXNativeTarget "gameFish" */;
+			buildPhases = (
+				3B024C1C1C2B9AA80070A1E6 /* Sources */,
+				3B024C1D1C2B9AA80070A1E6 /* Frameworks */,
+				3B024C1E1C2B9AA80070A1E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = gameFish;
+			productName = gameFish;
+			productReference = 3B024C201C2B9AA80070A1E6 /* gameFish.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3B024C181C2B9AA80070A1E6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = CanDang;
+				TargetAttributes = {
+					3B024C1F1C2B9AA80070A1E6 = {
+						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 0800;
+					};
+				};
+			};
+			buildConfigurationList = 3B024C1B1C2B9AA80070A1E6 /* Build configuration list for PBXProject "gameFish" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3B024C171C2B9AA80070A1E6;
+			productRefGroup = 3B024C211C2B9AA80070A1E6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3B024C1F1C2B9AA80070A1E6 /* gameFish */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3B024C1E1C2B9AA80070A1E6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16E101411D911E9D00CA5380 /* music.mp3 in Resources */,
+				16E101531D91295300CA5380 /* fishroll.png in Resources */,
+				3B024C2E1C2B9AA80070A1E6 /* LaunchScreen.storyboard in Resources */,
+				3B024C2B1C2B9AA80070A1E6 /* Assets.xcassets in Resources */,
+				3BFFF6FC1C2BF911000FA1BB /* hook.png in Resources */,
+				16E101581D91312200CA5380 /* lifeup.wav in Resources */,
+				3BFFF6F81C2BE006000FA1BB /* ocean.png in Resources */,
+				3BFFF6F91C2BE006000FA1BB /* fish1.png in Resources */,
+				16E1013F1D911E3D00CA5380 /* Fade.mp3 in Resources */,
+				3B024C291C2B9AA80070A1E6 /* Main.storyboard in Resources */,
+				16E101451D91226300CA5380 /* nhac song.mp3 in Resources */,
+				16E101471D9123FB00CA5380 /* underOcean.png in Resources */,
+				16E101491D91259B00CA5380 /* bluefish.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3B024C1C1C2B9AA80070A1E6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B024C261C2B9AA80070A1E6 /* ViewController.swift in Sources */,
+				3B024C241C2B9AA80070A1E6 /* AppDelegate.swift in Sources */,
+				3B024C381C2B9AE30070A1E6 /* HookerView.swift in Sources */,
+				3B024C361C2B9AD20070A1E6 /* FishView.swift in Sources */,
+				3B024C3A1C2B9AF40070A1E6 /* GameManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3B024C271C2B9AA80070A1E6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B024C281C2B9AA80070A1E6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3B024C2C1C2B9AA80070A1E6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3B024C2D1C2B9AA80070A1E6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3B024C301C2B9AA80070A1E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3B024C311C2B9AA80070A1E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3B024C331C2B9AA80070A1E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = gameFish/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = tunguyen.gameFish;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		3B024C341C2B9AA80070A1E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = gameFish/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = tunguyen.gameFish;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3B024C1B1C2B9AA80070A1E6 /* Build configuration list for PBXProject "gameFish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B024C301C2B9AA80070A1E6 /* Debug */,
+				3B024C311C2B9AA80070A1E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3B024C321C2B9AA80070A1E6 /* Build configuration list for PBXNativeTarget "gameFish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3B024C331C2B9AA80070A1E6 /* Debug */,
+				3B024C341C2B9AA80070A1E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3B024C181C2B9AA80070A1E6 /* Project object */;
+}

@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DemoPopover
+
+  Created by Tuuu on 7/29/16.
+  Copyright © 2016 CanhDang. All rights reserved.
+*/
+"Benjamin Franklin" = "Benjamin Franklin";
+"July 14 at 10:16 am" = "14 juillet à 10h16";
+"An investment in knowledge pays the best interest." = "Un investissement dans le savoir paie l'intérêt.";
+"Write a comment..." = "Écrire un commentaire...";
+"Like" = "Comme";
+"Share" = "Partager";
+"Comment" = "Commentaire";

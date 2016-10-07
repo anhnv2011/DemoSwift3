@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a96f871d020c56a724bbd7bdd259c1af"
+build_time: [527685198, 345095000]
+inputs:
+  "/Volumes/Data/Techmaster-lessons/NangCapBaiGiangSwift2/Swift 2.x/FinalDetailMaster/FinalDetailMaster/DetailViewController.swift": [527586179, 0]
+  "/Volumes/Data/Techmaster-lessons/NangCapBaiGiangSwift2/Swift 2.x/FinalDetailMaster/FinalDetailMaster/AppDelegate.swift": [527586179, 0]
+  "/Volumes/Data/Techmaster-lessons/NangCapBaiGiangSwift2/Swift 2.x/FinalDetailMaster/FinalDetailMaster/MasterViewController.swift": [527586179, 0]

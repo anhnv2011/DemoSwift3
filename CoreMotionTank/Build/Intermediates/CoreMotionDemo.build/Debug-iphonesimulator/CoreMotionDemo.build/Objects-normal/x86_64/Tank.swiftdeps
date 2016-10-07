@@ -1,0 +1,246 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Tank"
+provides-nominal:
+- "C14CoreMotionDemo4Tank"
+provides-member:
+- ["C14CoreMotionDemo4Tank", ""]
+provides-dynamic-lookup:
+- "updateMove"
+depends-top-level:
+- !private "fatalError"
+- "CGRect"
+- !private "CGPointMake"
+- "UIImageView"
+- !private "UIImage"
+- "NSCoder"
+- !private "+"
+- "Tank"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "CGPointMake"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "center"]
+- !private ["Ps9AnyObject", "fatalError"]
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "updateMove"]
+- ["Ps9AnyObject", ""]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["Ps11CVarArgType", "CGPointMake"]
+- !private ["Ps11CVarArgType", "UIImage"]
+- !private ["Ps11CVarArgType", "center"]
+- !private ["Ps11CVarArgType", "fatalError"]
+- !private ["Ps11CVarArgType", "image"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "updateMove"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGPointMake"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "center"]
+- !private ["Ps28CustomDebugStringConvertible", "fatalError"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "updateMove"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGPointMake"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "center"]
+- !private ["Ps23CustomStringConvertible", "fatalError"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "updateMove"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGPointMake"]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "center"]
+- !private ["Ps9Equatable", "fatalError"]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "updateMove"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "CGPointMake"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "center"]
+- !private ["Ps8Hashable", "fatalError"]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "updateMove"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "CGPointMake"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "center"]
+- !private ["PSo8NSCoding", "fatalError"]
+- !private ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "updateMove"]
+- ["PSo8NSCoding", ""]
+- !private ["CSo8NSObject", "CGPointMake"]
+- ["CSo8NSObject", "CGRect"]
+- ["CSo8NSObject", "NSCoder"]
+- !private ["CSo8NSObject", "UIImage"]
+- !private ["CSo8NSObject", "center"]
+- !private ["CSo8NSObject", "fatalError"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "updateMove"]
+- !private ["PSo16NSObjectProtocol", "CGPointMake"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "center"]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "updateMove"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["C14CoreMotionDemo4Tank", "CGPointMake"]
+- ["C14CoreMotionDemo4Tank", "CGRect"]
+- ["C14CoreMotionDemo4Tank", "NSCoder"]
+- !private ["C14CoreMotionDemo4Tank", "UIImage"]
+- !private ["C14CoreMotionDemo4Tank", "center"]
+- ["C14CoreMotionDemo4Tank", "deinit"]
+- !private ["C14CoreMotionDemo4Tank", "fatalError"]
+- !private ["C14CoreMotionDemo4Tank", "image"]
+- ["C14CoreMotionDemo4Tank", "init"]
+- ["C14CoreMotionDemo4Tank", "updateMove"]
+- !private ["PSo29UIAccessibilityIdentification", "CGPointMake"]
+- !private ["PSo29UIAccessibilityIdentification", "UIImage"]
+- !private ["PSo29UIAccessibilityIdentification", "center"]
+- !private ["PSo29UIAccessibilityIdentification", "fatalError"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "updateMove"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "CGPointMake"]
+- !private ["PSo12UIAppearance", "UIImage"]
+- !private ["PSo12UIAppearance", "center"]
+- !private ["PSo12UIAppearance", "fatalError"]
+- !private ["PSo12UIAppearance", "image"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "updateMove"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "CGPointMake"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "center"]
+- !private ["PSo21UIAppearanceContainer", "fatalError"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "updateMove"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "CGPointMake"]
+- !private ["PSo17UICoordinateSpace", "UIImage"]
+- !private ["PSo17UICoordinateSpace", "center"]
+- !private ["PSo17UICoordinateSpace", "fatalError"]
+- !private ["PSo17UICoordinateSpace", "image"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "updateMove"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "CGPointMake"]
+- !private ["PSo13UIDynamicItem", "UIImage"]
+- !private ["PSo13UIDynamicItem", "center"]
+- !private ["PSo13UIDynamicItem", "fatalError"]
+- !private ["PSo13UIDynamicItem", "image"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "updateMove"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "CGPointMake"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "center"]
+- !private ["PSo18UIFocusEnvironment", "fatalError"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "updateMove"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "CGPointMake"]
+- ["CSo11UIImageView", "CGRect"]
+- ["CSo11UIImageView", "NSCoder"]
+- !private ["CSo11UIImageView", "UIImage"]
+- !private ["CSo11UIImageView", "center"]
+- !private ["CSo11UIImageView", "fatalError"]
+- !private ["CSo11UIImageView", "image"]
+- ["CSo11UIImageView", "init"]
+- ["CSo11UIImageView", "updateMove"]
+- ["CSo11UIImageView", ""]
+- !private ["CSo11UIResponder", "CGPointMake"]
+- ["CSo11UIResponder", "CGRect"]
+- ["CSo11UIResponder", "NSCoder"]
+- !private ["CSo11UIResponder", "UIImage"]
+- !private ["CSo11UIResponder", "center"]
+- !private ["CSo11UIResponder", "fatalError"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "updateMove"]
+- !private ["PSo18UITraitEnvironment", "CGPointMake"]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "center"]
+- !private ["PSo18UITraitEnvironment", "fatalError"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "updateMove"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "CGPointMake"]
+- ["CSo6UIView", "CGRect"]
+- ["CSo6UIView", "NSCoder"]
+- !private ["CSo6UIView", "UIImage"]
+- !private ["CSo6UIView", "center"]
+- !private ["CSo6UIView", "fatalError"]
+- !private ["CSo6UIView", "image"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "updateMove"]
+- !private ["Ps24_ImageLiteralConvertible", "init"]
+- !private ["Ps12_Reflectable", "CGPointMake"]
+- !private ["Ps12_Reflectable", "UIImage"]
+- !private ["Ps12_Reflectable", "center"]
+- !private ["Ps12_Reflectable", "fatalError"]
+- !private ["Ps12_Reflectable", "image"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "updateMove"]
+- !private ["Ps12_Reflectable", "x"]
+- !private ["Ps12_Reflectable", "y"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Vs12StaticString"
+- "C14CoreMotionDemo4Tank"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo7UIImage"
+- "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "Ps24_ImageLiteralConvertible"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/dangcan/Desktop/CoreMotionDemo/CoreMotionDemo-Bridging-Header.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "d479dda8269d20f1721200f9cef7e170"

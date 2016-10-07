@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "209834153bc407da98a0a8c00d3f70ff"
+build_time: [527685678, 531227000]
+inputs:
+  "/Users/vinhthe/Documents/Swift 3.0 update/Calculator/Calculator/NumberButton.swift": [527586179, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/Calculator/Calculator/ViewController.swift": [527586179, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/Calculator/Calculator/GradientView.swift": [527586179, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/Calculator/Calculator/AppDelegate.swift": [527586179, 0]
+  "/Users/vinhthe/Documents/Swift 3.0 update/Calculator/Calculator/OperatorsButton.swift": [527586179, 0]

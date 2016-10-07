@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "07a5266b86acace008eb96974a737ce9"
+build_time: [525493660, 755500000]
+inputs:
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Can_MapDemo/ViewController.swift": [525157153, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Can_MapDemo/PathFind.swift": [525438104, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Can_MapDemo/BaseController.swift": [525431527, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Can_MapDemo/AppDelegate.swift": [524821334, 0]
+  "/Users/dangcan/Desktop/MapKit/Can_MapDemo/Can_MapDemo/LocationAnnotation.swift": [525440601, 0]

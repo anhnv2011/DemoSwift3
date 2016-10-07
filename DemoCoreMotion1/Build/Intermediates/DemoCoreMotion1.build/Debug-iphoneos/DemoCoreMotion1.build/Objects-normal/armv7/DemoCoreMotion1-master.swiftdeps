@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "c45bdd633f561d2dcc62e03daf148710"
+build_time: [523937297, 945560000]
+inputs:
+  "/Users/dangcan/Desktop/DemoCoreMotion1/DemoCoreMotion1/ViewController.swift": [523796012, 0]
+  "/Users/dangcan/Desktop/DemoCoreMotion1/DemoCoreMotion1/AppDelegate.swift": [523783745, 0]
