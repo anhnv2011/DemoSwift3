@@ -1,3 +1,3 @@
-#SampleSQLite project
+#Demo project
 
-#### Làm 1 ứng dụng mp3 dùng SQLite
+#### Demo to learn Swift 3
