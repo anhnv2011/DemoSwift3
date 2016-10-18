@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BlockInSwift
 //
-//  Created by Tuuu on 6/1/16.
-//  Copyright © 2016 TuNguyen. All rights reserved.
+//  Created by anhnguyenviet on 6/1/16.
+//  Copyright © 2016 anhnguyenviet. All rights reserved.
 //
 
 import UIKit

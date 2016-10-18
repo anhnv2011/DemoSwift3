@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  BirdFly
 //
-//  Created by DangCan on 5/17/16.
-//  Copyright © 2016 TuNguyen. All rights reserved.
+//  Created by anhnguyenviet on 5/17/16.
+//  Copyright © 2016 anhnguyenviet. All rights reserved.
 //
 
 import UIKit
